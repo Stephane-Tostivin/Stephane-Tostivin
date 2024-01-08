@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stephane-Tostivin
 - 👀 I’m interested in testing activities
-- 🌱 I’m currently learning Espresso
+- 🌱 I’m currently developping automated tests on Android and iOS apps
 - 📫 How to reach me stephane.tostivin@gmail.com
 
 <!---
